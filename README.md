@@ -33,7 +33,7 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/DeveloperYamin/Sheba-Task-Mobile-App.git
+git clone https://github.com/software-developer-yamin/Sheba-Task-Mobile-App.git
 cd ./Sheba-Task-Mobile-App
 ```
 
